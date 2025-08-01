@@ -1,0 +1,77 @@
+.redborder
+{
+    border: 2px solid red;
+    margin: 2px;
+}
+.flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.items-center
+{
+    justify-items: center;
+}
+.invert{
+    filter: invert(100%)
+}
+.mleft2{
+  margin-left: 2%;
+}
+
+
+
+
+
+
+/* Horizontal scrollbar only */
+::-webkit-scrollbar {
+  height: 12px;
+  width: 0 !important; /* Prevent vertical space */
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #000;
+}
+
+/* Thumb */
+::-webkit-scrollbar-thumb {
+  background-color: #333;
+  border-radius: 6px;
+  border: 1px solid #000;
+}
+
+/* Completely disable vertical scrollbar buttons (removes their space) */
+::-webkit-scrollbar-button:vertical {
+  display: none;
+  height: 0;
+}
+
+/* Left arrow */
+::-webkit-scrollbar-button:single-button:horizontal:decrement {
+  background-color: #000;
+  display: block;
+  width: 12px;
+  height: 12px;
+  border-style: solid;
+  border-width: 6px 6px 6px 0;
+  border-color: transparent #888 transparent transparent;
+}
+
+/* Right arrow */
+::-webkit-scrollbar-button:single-button:horizontal:increment {
+  background-color: #000;
+  display: block;
+  width: 12px;
+  height: 12px;
+  border-style: solid;
+  border-width: 6px 0 6px 6px;
+  border-color: transparent transparent transparent #888;
+}
+
+/* Prevent white square in corner */
+::-webkit-scrollbar-corner {
+  background: #000;
+}

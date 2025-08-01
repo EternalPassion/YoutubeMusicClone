@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube Music</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="utility.css" class="css">
+    <link rel="icon" href="https://www.google.com/s2/favicons?domain=music.youtube.com" type="icon">
+</head>
+
+<body>
+    <div class="container flex">
+        <div class="left">
+            <div class="home">
+                <img src="img/cross.svg" class="close" alt="close">
+                <div class="logo"><img class="logo style-scope ytmusic-logo" alt=""
+                        srcset="//music.youtube.com/img/on_platform_logo_dark.svg"></div>
+                <ul>
+                    <li><img src="img/home.svg" alt="home">Home</li>
+                    <li><img src="img/explore.svg" alt="explore">Explore</li>
+                    <li><img src="img/library.svg" alt="library">Library</li>
+                </ul>
+                <hr>
+            </div>
+            <div class="playlist">
+                <button><img src="img/+.svg" alt="+"> New Playlist</button>
+
+            </div>
+            <div class="songList">
+                <ul>
+
+                </ul>
+            </div>
+        </div>
+        <div class="right">
+            <div class="nav">
+                <img class="hamburger invert" src="img/hamburger.svg" alt="hamburger">
+                <div class="search">
+                    <div class="ssvg"><img src="img/search.svg" alt="search"></div>
+                    <input type="text" class="song-search" placeholder="Search songs, albums, artists, podcasts">
+                    <div class="cross"><img src="img/cross.svg" alt="cross"></div>
+                </div>
+                <div class="signin">
+                    <button>Sign In</button>
+                </div>
+            </div>
+            <div class="guest">
+                <div class="profile"><img src="img/guest.jpg" alt="guest"></div>
+                <div class="welcome">
+                    <h3>Guest</h3>
+                    <h1>Welcome</h1>
+                </div>
+            </div>
+            <div class="songs">
+                <div class="cards-container"></div>
+
+                <div class="playlistLib">
+                    <h1>Playlists for you</h1>
+                    <div class="playlist-container"> </div>
+                </div>
+                <div class="playbar">
+                    <div class="seekbar">
+                        <div class="circle"></div>
+                    </div>
+                    <div class="controls">
+                        <div class="song-name"></div>
+                        <div class="songbuttons">
+                            <img src="img/previous-song.svg" alt="previous" class="previous-song" id="previous">
+                            <img src="img/playsong.svg" alt="playsong" class="playsong" id="play">
+                            <img src="img/next-song.svg" alt="nextsong" class="next-song" id="next">
+                            <div class="song-duration"></div>
+                        </div>
+                        <div class="volume-control">
+                            <img src="img/volume.svg" alt="volume" class="volume">
+                            <input class="volume-slider" type="range" min="0" max="100" value="50">
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
