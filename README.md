@@ -14,13 +14,15 @@ Features that may be added in future:-
 📱 Screenshots
 Here's how it looks:
 
-Desktop
-![Image Alt](https://github.com/EternalPassion/YoutubeMusicClone/blob/4371cbd5fb5bcbbd6e51b81f518b80e88daf9832/Screenshots/Screenshot%201(PC).png)
-![Image Alt]((https://github.com/EternalPassion/YoutubeMusicClone/blob/4371cbd5fb5bcbbd6e51b81f518b80e88daf9832/Screenshots/Screenshot%202(PC).png))
+--------------Desktop--------------
+<img width="1365" height="718" alt="Screenshot 1(PC)" src="https://github.com/user-attachments/assets/5e33333d-6fe0-4cd1-b85e-7a881da7801f" />
+<img width="1365" height="719" alt="Screenshot 2(PC)" src="https://github.com/user-attachments/assets/a819de49-ca3a-46c3-a1a1-2e11c5f3374b" />
 
-Mobile
-![Image Alt]([image_url](https://github.com/EternalPassion/YoutubeMusicClone/blob/4371cbd5fb5bcbbd6e51b81f518b80e88daf9832/Screenshots/Screenshot%203(Mob).png))
-![Image Alt]([image_url](https://github.com/EternalPassion/YoutubeMusicClone/blob/4371cbd5fb5bcbbd6e51b81f518b80e88daf9832/Screenshots/Screenshot%204(Mob).png))
+--------------Mobile--------------
+![Screenshot 3(Mob)](https://github.com/user-attachments/assets/25d9f786-4aff-4df9-835b-06ede33887d2)
+![Screenshot 4(Mob)](https://github.com/user-attachments/assets/7b4d0847-f0d7-484a-8643-478db97307f3)
+
+
 
 Hosting Status
 Currently unable to deploy publicly due to file hosting limitations for audio content. Static hosts like GitHub Pages and Netlify restrict media file access from folders. 
