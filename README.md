@@ -26,5 +26,5 @@ Here's how it looks on desktop and mobile:
 Hosting Status:-
 Currently unable to deploy publicly due to file hosting limitations for audio content. Static hosts like GitHub Pages and Netlify restrict media file access from folders. 
 Also I don't have custom domain to host on WebMostHost or any other alternative. So may be hosted on future. 
-So if you wanna try how it works just download the repository use live server to host it from Live Server. 
+So if you wanna try how it works just download the repository use Vs Code to host it from Live Server extension. 
 For any questions feel free to dm me in LinkedIn:- www.linkedin.com/in/aman-kumar-shaw-0b7185330
