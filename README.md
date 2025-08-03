@@ -1,5 +1,5 @@
 # YoutubeMusicClone
-This is a small project I made that works like YouTube Music. You can play songs and explore a mini music library with a cool-looking user interface. I built everything using HTML, CSS, and JavaScript.
+This is a project I made that works like YouTube Music. You can play songs and explore a mini music library with a cool-looking user interface. I built everything using HTML, CSS, and JavaScript.
 
 Features added:- 
 1. Music playback with play/pause and volume control
@@ -23,7 +23,7 @@ Here's how it looks on desktop and mobile:
 
 
 
-Hosting Status
+Hosting Status:-
 Currently unable to deploy publicly due to file hosting limitations for audio content. Static hosts like GitHub Pages and Netlify restrict media file access from folders. 
 Also I don't have custom domain to host on WebMostHost or any other alternative. So may be hosted on future. 
 So if you wanna try how it works just download the repository use live server to host it from Live Server. 
