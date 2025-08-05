@@ -21,10 +21,5 @@ Here's how it looks on desktop and mobile:
 ![Screenshot 4(Mob)](https://github.com/user-attachments/assets/7b4d0847-f0d7-484a-8643-478db97307f3)
 
 
-
-
-Hosting Status:-
-Currently unable to deploy publicly due to file hosting limitations for audio content. Static hosts like GitHub Pages and Netlify restrict media file access from folders. 
-Also I don't have custom domain to host on WebMostHost or any other alternative. So may be hosted on future. 
-So if you wanna try how it works just download the repository use Vs Code to host it from Live Server extension. 
-For any questions feel free to dm me in LinkedIn:- www.linkedin.com/in/aman-kumar-shaw-0b7185330
+View hosted website here:- http://youtubemusic.whf.bz/
+SSL will be updated so ignore the warning
